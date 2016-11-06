@@ -1,6 +1,6 @@
 {
   "name": "console-emoji",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "console.log messages with emoji support and color",
   "author": "Maik Ellerbrock",
   "main": "dist/index.js",
