@@ -1,6 +1,6 @@
 {
   "name": "console-emoji",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "console.log with color",
   "author": "Maik Ellerbrock",
   "main": "dist/index.js",
@@ -33,7 +33,7 @@
     "debug": "nodemon src/index.js --exec babel-node --debug",
     "precommit": "npm run clean && npm run update-dependencies && npm run build && npm run lint:fix && npm test && npm run coverage && npm run lint:travis && npm run lint:markdown",
     "commit": "git add --all && git status && git-cz",
-    "postcommit": "npm run lint:git && npm run changelog",
+    "postcommit": "npm run lint:git",
     "changelog": "standard-changelog --preset angular-emoji --outfile changelog.md",
     "lint": "eslint src",
     "lint:fix": "eslint --fix src",
