@@ -132,7 +132,7 @@
     "shx": "^0.1.4",
     "snyk": "^1.19.1",
     "standard-changelog": "0.0.1",
-    "standard-version": "^3.0.0",
+    "standard-version": "^4.0.0",
     "travis-lint": "1.0.0"
   },
   "dependencies": {
