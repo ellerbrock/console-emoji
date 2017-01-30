@@ -121,7 +121,7 @@
     "eslint-plugin-promise": "3.4.0",
     "eslint-plugin-standard": "2.0.1",
     "greenkeeper-postpublish": "1.0.1",
-    "markdown-link-check": "~3.0.0",
+    "markdown-link-check": "~3.0.3",
     "markdownlint": "0.3.1",
     "mocha": "^3.2.0",
     "mochawesome": "^2.0.0",
