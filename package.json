@@ -130,7 +130,7 @@
     "npm-check-updates": "2.11.2",
     "ntl": "1.1.3",
     "shx": "^0.2.1",
-    "snyk": "^1.21.2",
+    "snyk": "^1.34.4",
     "standard-changelog": "1.0.0",
     "standard-version": "^4.0.0",
     "travis-lint": "1.0.0"
