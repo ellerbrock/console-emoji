@@ -114,7 +114,7 @@
     "commitizen": "2.9.6",
     "conventional-changelog-angular-emoji": "0.2.2",
     "conventional-changelog-lint": "2.0.0",
-    "cross-env": "3.1.4",
+    "cross-env": "5.1.0",
     "cz-conventional-changelog-emoji": "0.1.0",
     "eslint": "^3.12.2",
     "eslint-config-standard": "7.0.0",
