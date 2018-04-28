@@ -110,7 +110,7 @@
     "babel-register": "^6.18.0",
     "babili": "^0.0.12",
     "chai": "^4.0.0",
-    "codecov": "3.0.0",
+    "codecov": "3.0.1",
     "commitizen": "2.9.6",
     "conventional-changelog-angular-emoji": "0.2.2",
     "conventional-changelog-lint": "2.0.0",
