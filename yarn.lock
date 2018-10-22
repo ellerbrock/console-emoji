@@ -5182,9 +5182,9 @@ mochawesome-report-generator@^3.0.1:
     validator "^9.1.2"
     yargs "^10.0.3"
 
-mochawesome@^3.0.0:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/mochawesome/-/mochawesome-3.0.3.tgz#6fe038d52a99b0e6ad8fa1edbef69ab79d37fbec"
+mochawesome@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/mochawesome/-/mochawesome-3.1.1.tgz#106db6cb75dc6f626bcc559c8752c99ef135ec53"
   dependencies:
     babel-runtime "^6.20.0"
     chalk "^2.3.0"
