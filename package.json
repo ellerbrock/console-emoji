@@ -137,6 +137,6 @@
   },
   "dependencies": {
     "colors": "1.3.3",
-    "node-emoji": "1.6.0"
+    "node-emoji": "1.10.0"
   }
 }
