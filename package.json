@@ -128,7 +128,7 @@
     "nodejs-dashboard": "^0.2.1",
     "nodemon": "^1.11.0",
     "npm-check-updates": "2.14.3",
-    "ntl": "1.1.3",
+    "ntl": "3.2.2",
     "shx": "^0.3.0",
     "snyk": "^1.21.2",
     "standard-changelog": "2.0.0",
