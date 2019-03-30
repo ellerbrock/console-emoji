@@ -5061,9 +5061,10 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
-markdown-it@^8.3.1:
+markdown-it@8.4.2:
   version "8.4.2"
   resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-8.4.2.tgz#386f98998dc15a37722aa7722084f4020bdd9b54"
+  integrity sha512-GcRz3AWTqSUphY3vsUqQSFMbgR38a4Lh3GWlHRh/7MRwz8mcu9n2IO7HOh+bXHrR9kOPDl5RNCaEsrneb+xhHQ==
   dependencies:
     argparse "^1.0.7"
     entities "~1.1.1"
@@ -5089,11 +5090,12 @@ markdown-link-extractor@^1.1.0:
   dependencies:
     marked "^0.3.5"
 
-markdownlint@0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/markdownlint/-/markdownlint-0.5.0.tgz#4bcdf986173235613451b61f5f123ef92e048c77"
+markdownlint@0.13.0:
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/markdownlint/-/markdownlint-0.13.0.tgz#39ffd5ffbf1198c761a5ef3e28c195e5eb8dd669"
+  integrity sha512-mGeDEbvmRk2T8f043lK7Lhcdi7mr68hQqGsJCS4p52uvEyOLym28s3r7GA6aaFQFtwT0MfFaJ/7Ex4n/HVPUnQ==
   dependencies:
-    markdown-it "^8.3.1"
+    markdown-it "8.4.2"
 
 marked-terminal@^1.5.0:
   version "1.7.0"
