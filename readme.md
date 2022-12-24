@@ -52,6 +52,8 @@ log('just some red text', 'red')
 log('green text with a kitten :smile_cat:', 'green')
 ```
 
+See more at [emoji list](emoji.md)
+
 ### Contact / Social Media
 
 _Get the latest News about Web Development, Open Source, Tooling, Server & Security_
